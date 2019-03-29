@@ -1,0 +1,27 @@
+/* remove default margin and padding from body */
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* set map, body, and html to 100% of the screen size */
+#map,
+body,
+html {
+  height: 100%;
+}
+
+
+#maglegend{
+  background-color: white;
+  border-radius: 10%;
+  padding:5px;
+ }
+ 
+ 
+ .legenddiv{
+  border:1px solid white;
+  opacity: 0.8;
+ 
+  width:4vw;
+  text-align: center;
