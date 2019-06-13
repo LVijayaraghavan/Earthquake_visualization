@@ -5,9 +5,9 @@
 ### Level 1: Basic Visualization
 
   First task is to visualize an earthquake data set.Here we will try to visualize earthquakes for past 7 days as published from USGS site.
-  ## 1. Gather Data
+  ## 1. Gather Data**
   
-    * Get the data set We will choose the 'All Earthquakes from the Past 7 Days', the site will be provide a JSON representation of that data.The URL will be used to pull in the JSON data for our visualization.
+    * We will choose the 'All Earthquakes from the Past 7 Days', the site will be provide a JSON representation of that data.The URL will         be used to pull in the JSON data for our visualization.
   
   ## 2. Import & Visualize the Data**
 
